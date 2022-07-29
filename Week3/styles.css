@@ -1,0 +1,17 @@
+.center{
+    float: left;
+    background-color: white;
+}
+
+textarea{
+    background-color: white;
+
+}
+button{
+    background-color: white;
+
+}
+
+*{
+    background-color: rgb(142, 142, 164);
+}
