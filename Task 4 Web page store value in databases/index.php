@@ -18,7 +18,7 @@ error_reporting( 0 );
 <p>If you press  Send, it will be sent to the databases</p>
 <hr>
 
-<form name = 'formNo' action = '' method = 'get'>
+<form name = 'formNo' action = '' method = 'GET'>
 <label>Input: <input name = 'int' type = 'number' ></label>
 <button name = 'submit' type = 'submit' onclick = 'Send()'>Send</button>
 
