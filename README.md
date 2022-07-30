@@ -10,3 +10,5 @@ this repository for smart methods company training (summer training 2022)
 <h2>Task 3: Speech To Move Arm</h2>
 <p>converting speech into commands to move robot arm</p>
 
+<h2>Task 4: Web page store value in databases</h2>
+
