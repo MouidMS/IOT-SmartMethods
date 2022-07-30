@@ -11,4 +11,4 @@ this repository for smart methods company training (summer training 2022)
 <p>converting speech into commands to move robot arm</p>
 
 <h2>Task 4: Web page store value in databases</h2>
-
+<p>A PHP web page that stores an intager to databases</p>
